@@ -11,5 +11,3 @@
 ## npm run dev
 
 ## npm >> node package manager
-
-## Happy
